@@ -77,9 +77,18 @@ main section.games a {
     border-bottom: dashed 2px #2dc;
 }
 
+main section.games a:hover,
+main section.games a:focus {
+    border-bottom: dashed 2px #c6c;
+}
+
 main section.coding {
     border-top: 4px solid #2dc;
 
+}
+main section.coding a:hover,
+main section.coding a:focus {
+    border-bottom: dashed 2px #2dc;
 }
 
 main section.games {
