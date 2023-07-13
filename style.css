@@ -70,7 +70,7 @@ main section a {
     color: #eee;
     text-decoration: none;
     display: inline-block;
-    border-bottom: dashed 1px #c6c;
+    border-bottom: dashed 2px #c6c;
 }
 
 main section.coding {
