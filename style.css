@@ -73,6 +73,10 @@ main section a {
     border-bottom: dashed 2px #c6c;
 }
 
+main section.games a {
+    border-bottom: dashed 2px #2dc;
+}
+
 main section.coding {
     border-top: 4px solid #2dc;
 
