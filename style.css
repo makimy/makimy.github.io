@@ -56,7 +56,7 @@ header .playground {
     border: none !important;
 }
 /* }}} */
-
+/* {{{ main */
 main {
     padding: 0.5em;
     max-width: 800px;
@@ -111,5 +111,10 @@ main section .subsection li {
     margin: 5px 0;
     padding: 10px 0;
 }
+/* }}} */
 
+#controls {
+    padding: 1em 0;
+    text-align: right;
+}
 
